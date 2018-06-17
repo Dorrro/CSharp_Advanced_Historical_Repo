@@ -10,6 +10,10 @@ namespace CSharp.Advanced.Sii.Trainings
     {
         static void Main(string[] args)
         {
+
+            // hello
+            // jak sie mas
+            int i = 1;
         }
     }
 }
